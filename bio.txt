@@ -1,5 +1,7 @@
-Nombre: Sara
-Edad: 25
+Nombre: Sara Bermejo
+Edad: 24
 
 Esto es un curso sobre GIT
-Me gusta leer
+Me gusta el deporte
+
+Muchas gracias
