@@ -24,7 +24,10 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-
+#img
+{
+    width: 50%;
+}
 #contenedor
 {
     width: 70%;
